@@ -56,7 +56,7 @@ header {
 }
 
 .box {
-    background-image: url(/teladelogin/img/ronan.png);
+    background-image: url(ronan.png);
     position: relative;
     background-repeat: no-repeat;
     background-size: 110%;
